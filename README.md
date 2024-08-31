@@ -12,7 +12,7 @@ I'm a Data Scientist Aspirant who loves playing with data and exploring new data
 
   ## Tech Stack
 
-* 💻 Python(https://camo.githubusercontent.com/00ab6feb7f1b50676d307b61a4dc95b69e83b06a90ad1796a4eaf43b7a8d2eb5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3333333333333f7374796c653d666c6174266c6f676f3d707974686f6e)
+* 💻 Python
 * 🌐 HTML CSS JavaScript
 * ⚙️ Git GitHub
 * 🔧 Visual Studio Code Jupyter Notebook Google Colab 
