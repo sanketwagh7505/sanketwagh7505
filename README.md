@@ -1,4 +1,13 @@
-<h1 align='center'>Hi <img src=(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)>My name is Sanket Wagh </h1>
+<head>  
+    <meta charset="UTF-8">  
+    <title>Center Align</title>  
+    <style>  
+        body { text-align: center; }  
+    </style>  
+</head>  
+<body>  
+    Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Animated GIF" /> My name is Sanket Wagh  
+</body>
 ===================================================================================================================================
 <p align='center'>
 </p>
@@ -7,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=sanketwagh7505&color=brightgreen" alt="watching_count" />
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Age-23-blue" />
+<img src="https://img.shields.io/badge/Age-32-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-India-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20BMarathi-navyblue" />
@@ -43,5 +52,4 @@
 <a href="http://www.github.com/sanketwagh7505"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketwagh7505&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/sanketwagh7505" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketwagh7505&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 
