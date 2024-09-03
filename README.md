@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sanket Wagh
+<h1 align='center'>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sanket Wagh </h1>
 ===================================================================================================================================
 <p align='center'>
 </p>
@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://komarev.com/ghpvc/?username=sanketwagh7505&color=brightgreen" alt="watching_count" />
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Age-32-blue" />
+<img src="https://img.shields.io/badge/Age-23-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-India-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20BMarathi-navyblue" />
