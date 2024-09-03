@@ -10,6 +10,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sanketwagh7505&color=brightgreen" alt="watching_count" />
 </p>
+<p align="center">
+<img src="https://img.shields.io/badge/Age-32-blue" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-India-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20BMarathi-navyblue" />
+  <img src="https://img.shields.io/badge/Fav%20PLang-Python-success" />
+ <img src="https://img.shields.io/badge/Fav%20Viz%20Tool-Power BI-success" />
+</p>
 
 ### Skills
 
