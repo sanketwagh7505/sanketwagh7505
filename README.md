@@ -28,7 +28,7 @@
 
 
 - 💻 &nbsp;
-  ![Python]((https://www.python.org/))
+  [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)](https://www.python.org/)
 - 🌐 &nbsp;
   ![HTML5]([https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5](https://html.com/))
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
