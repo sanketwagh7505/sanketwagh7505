@@ -1,4 +1,4 @@
-<h1 align='center'> Hi!:wave: I'm Sanket Wagh</h1>
+<h1 align='center'> Hi! :wave: I'm Sanket Wagh</h1>
 <p align='center'>
 </p>
 
