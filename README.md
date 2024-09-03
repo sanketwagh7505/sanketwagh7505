@@ -1,14 +1,4 @@
-<head>  
-    <meta charset="UTF-8">  
-    <title>Center Align</title>  
-    <style>  
-        body { text-align: center; }  
-    </style>  
-</head>  
-<body>  
-    Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Animated GIF" /> My name is Sanket Wagh  
-</body>
-===================================================================================================================================
+<h1 align='center'> Hi!:wave: I'm Sanket Wagh</h1>
 <p align='center'>
 </p>
 
