@@ -4,6 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [sanket.wagh.7505@gmail.com](mailto:sanket.wagh.7505@gmail.com)
 * 🧠  I'm learning Data Science
 
+<p align='center'>
+</p>
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sanketwagh7505&color=brightgreen" alt="watching_count" />
 </p>
