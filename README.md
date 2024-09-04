@@ -34,6 +34,8 @@
   [![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)](https://html.com/)
   [![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)](https://www.w3.org/Style/CSS/Overview.en.html)
   [![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)](https://www.javascript.com/)
+  [![Streamlit](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Streamlit-333333%3Fstyle%3Dflat%26logo%3Dstreamlit)](https://streamlit.io/)
+
 - ⚙️ &nbsp;
   [![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)](https://git-scm.com/doc)
   [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/)
