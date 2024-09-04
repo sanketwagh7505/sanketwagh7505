@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Age-23-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-India-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20BMarathi-navyblue" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Marathi%20%26%20Gujarati-navyblue" />
   <img src="https://img.shields.io/badge/Fav%20PLang-Python-success" />
  <img src="https://img.shields.io/badge/Fav%20Viz%20Tool-Power BI-success" />
 </p>
@@ -29,18 +29,18 @@
 
 - 💻 &nbsp;
   [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)](https://www.python.org/)
+  
 - 🌐 &nbsp;
   [![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)](https://html.com/)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  [![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)](https://www.w3.org/Style/CSS/Overview.en.html)
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)](https://www.javascript.com/)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  [![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)](https://git-scm.com/doc)
+  [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Jupyter NoteBook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter-notebook&logoColor=007ACC)
-  ![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=google-colab&logoColor=007ACC)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=007ACC)
+  [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
+  [![Jupyter NoteBook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter-notebook&logoColor=007ACC)](https://jupyter.org/)
+  [![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=google-colab&logoColor=007ACC)](https://colab.research.google.com/)
 
 
 
