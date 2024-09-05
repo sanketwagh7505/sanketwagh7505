@@ -7,7 +7,7 @@
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Age-23-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen"/>
   <img src="https://img.shields.io/badge/Lives-India-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Marathi%20%26%20Gujarati-navyblue" />
   <img src="https://img.shields.io/badge/Fav%20PLang-Python-success" />
@@ -16,7 +16,7 @@
 
 ## I'm a Data Scientist Aspirant who loves playing with data and exploring new data science analysis skills
 
-* 🌱 I’m currently learning everything
+* 🌱 I’m currently learning Everything
 * 👯 I’m looking to collaborate with data scientist
 * 🔭 I’m currently working on Data Science Projects
 * 🥅 2024 goals : Learn new method and techniques to solve Analytical Problems
