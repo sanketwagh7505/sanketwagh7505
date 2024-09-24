@@ -30,7 +30,7 @@
 - 💻 &nbsp;
   [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)](https://www.python.org/)
   [![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)](https://www.mysql.com/)
-  [![MicrosoftSQLServer](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)](https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16)
+  [![MicrosoftSQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-333333?style=flat&logo=microsoftsqlserver)](https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16)
   
 - 🌐 &nbsp;
   [![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)](https://html.com/)
