@@ -31,7 +31,7 @@
   [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)](https://www.python.org/)
   [![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)](https://www.mysql.com/)
   [![MicrosoftSQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-333333?style=flat&logo=microsoftsqlserver)](https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16)
-  [![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=white"/)]([https://www.mysql.com/](https://www.microsoft.com/en-us/power-platform/products/power-bi))
+  [![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=white"/)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
   
 - 🌐 &nbsp;
   [![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)](https://html.com/)
