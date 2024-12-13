@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=sanketwagh7505&color=brightgreen" alt="watching_count" />
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Age-23-blue" />
+<img src="https://img.shields.io/badge/Age-24-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen"/>
   <img src="https://img.shields.io/badge/Lives-India-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Marathi%20%26%20Gujarati-navyblue" />
